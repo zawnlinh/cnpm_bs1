@@ -1,0 +1,1 @@
+<?php if (current_user()): ?></main><footer class="footer">BOOK SHOP MINI · Đồ án Công nghệ phần mềm · PHP + MySQL · Demo học tập</footer></div></div><?php else: ?></div></div><?php endif; ?></body></html>
